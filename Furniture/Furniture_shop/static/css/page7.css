@@ -1,0 +1,13 @@
+.button{
+    width: 340px;
+    height: 40px;
+    background-color: chocolate;
+    color: white;
+}
+
+.form{
+    background-color: #777;
+    width: 500px;
+    align-items: center;
+    
+}
